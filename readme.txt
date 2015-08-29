@@ -8,3 +8,4 @@ add branch named 'dev'.
 Creating a new branch is quick and simple.
 Modify by new branch named 'dev'.
 Create a bug branch test.
+Test stash commend.
