@@ -7,3 +7,5 @@ Git tracks changes of files.
 add branch named 'dev'.
 Creating a new branch is quick and simple.
 Modify by new branch named 'dev' and add a bug branch:issue-100.
+Create a bug branch test.
+Test stash commend.
