@@ -6,4 +6,5 @@ Git tracks changes of files.
 22222222222.
 add branch named 'dev'.
 Creating a new branch is quick and simple.
-Modify by new branch named 'dev'
+Modify by new branch named 'dev'.
+Create a bug branch test.
